@@ -1,4 +1,4 @@
-Projeto de Extensão - 2025.2
+#Projeto de Extensão - 2025.2
 Introdução
 
 Este projeto de extensão tem como objetivo desenvolver um jogo interativo de perguntas e respostas, inspirado no clássico “Show do Milhão”. A proposta visa proporcionar aos alunos uma experiência prática e divertida na aplicação de conceitos de lógica de programação, estrutura de decisão e manipulação de dados, utilizando linguagens amplamente utilizadas no mercado.
