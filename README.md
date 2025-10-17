@@ -15,7 +15,7 @@ Ao final, os participantes terão construído um jogo funcional, podendo ser exe
 Aqui estão reunidos todos os registros e documentos produzidos durante o desenvolvimento do projeto, como pautas de reuniões, protótipos e relatórios de progresso.
 
 **Links para os documentos:**
-- [Pauta das Reuniões](#https://1drv.ms/w/c/957201175fb5b0e6/EZolZ7oYLLJOqlt1HlfQ53sByC6hesJS9P_uK1nAyRI_Ag?e=1dX118)
+- [Pauta das Reuniões](https://1drv.ms/w/c/957201175fb5b0e6/EZolZ7oYLLJOqlt1HlfQ53sByC6hesJS9P_uK1nAyRI_Ag?e=1dX118)
 
 ---
 
